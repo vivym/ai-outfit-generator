@@ -1,0 +1,6 @@
+accelerate
+diffusers
+gradio
+transformers
+fastapi[standard]
+sentencepiece

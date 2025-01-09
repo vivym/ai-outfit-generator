@@ -1,0 +1,10 @@
+A dress with Color: Pink, Department: Dresses, Detail: High Low, Fabric-Elasticity: No Sretch, Fit: Fitted, Hemline: Slit, Material: Gabardine, Neckline: Collared, Pattern: Solid, Sleeve-Length: Sleeveless, Style: Casual, Type: Tunic, Waistline: Regular
+
+A dress with Color: Red, Department: Dresses, Detail: Belted, Fabric-Elasticity: High Stretch, Fit: Fitted, Hemline: Flared, Material: Gabardine, Neckline: Off The Shoulder, Pattern: Floral, Sleeve-Length: Sleeveless, Style: Elegant, Type: Fit and Flare, Waistline: High
+
+A lehenga with a solid blue color features a floral pattern, traditional style, fitted fit, and a long hemline. It is made from silk with full sleeve length and stretchy fabric elasticity, sporting a V-neck and a high waistline. The embroidery adds a touch of elegance to the traditional design.
+
+Color: Lavender Department: Outerwear Detail: Double-breasted, Padded shoulders Fabric-Elasticity: Non-stretch Fit: Oversized Hemline: Hip-length Material: Wool Blend Neckline: Notched Lapel Pattern: Solid Sleeve-Length: Long Style: Power Suit Type: Blazer Waistline: Relaxed
+
+A dress with Color: Multicolored, Department: Dresses, Detail: Split, Fabric-Elasticity: High Stretch, Fit: Fitted, Hemline: Slit, Material: Gabardine, Neckline: V Neck, Pattern: Leopard, Sleeve-Length: Sleeveless, Style: Casual, Type: T Shirt, Waistline: Regular
+
